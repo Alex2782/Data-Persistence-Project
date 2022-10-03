@@ -76,15 +76,4 @@ public class MainManager : MonoBehaviour
         GameOverText.SetActive(true);
     }
 
-
-    public void onClickedStart()
-    {
-
-    }
-
-    public void onClickedQuit()
-    {
-
-    }
-
 }
